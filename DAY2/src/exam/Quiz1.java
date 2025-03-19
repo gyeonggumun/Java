@@ -22,8 +22,12 @@ public class Quiz1 {
 		System.out.println("성별 : " + gender);
 		System.out.println("거주지 : " + residence);
 		System.out.println("직업 : " + job);
-				
-				
+		System.out.println();
+		System.out.printf("이름 : %s\n", name);
+		System.out.printf("나이 : %d\n", age);
+		System.out.printf("성별 : %s\n", gender);
+		System.out.printf("거주지 : %s\n", residence);
+		System.out.printf("직업 : %s\n", job);
 		
 	}
 }
